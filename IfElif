@@ -1,9 +1,0 @@
-ome=str(input('Insira seu nome: '))
-n1=int(input('Insira sua primeira nota: '))
-n2=int(input('Insira sua segunda nota: '))
-m = int((n1+n2)/2)
-media = str(m)
-if m > 6:
-    print(nome +', você foi aprovado e sua média foi' + media)
-elif m < 6:
-    print(nome+ ', você foi reprovado e sua média foi' + media)

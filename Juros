@@ -1,5 +1,0 @@
-valor = float(input('Digite o valor da prestação: '))
-tempo = float(input('A quantos meses está em atraso? '))
-taxa = float(input('Qual é a taxa de juros ao mês(%)? '))
-prest = valor+(valor*(taxa/100)*tempo)
-print('O valor da prestação é R$', prest)

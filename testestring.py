@@ -1,1 +1,0 @@
-frase = 'eu fiz SENAI'

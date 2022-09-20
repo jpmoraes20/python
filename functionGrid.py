@@ -1,3 +1,4 @@
+#desenha uma grade 4x4
 def first_print():
     print('+','-','-','+')
 def second_print():
